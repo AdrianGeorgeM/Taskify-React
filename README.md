@@ -20,7 +20,7 @@
 
 ## 🌟 Live Demo
 
-👉 Dive in and explore: ([Live Demo](https://task-management-app.vercel.app/))
+👉 Dive in and explore: ([Live Demo](https://taskify-react-ashy.vercel.app/))
 
 ---
 
@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```bash
 # Clone the repo
-git clone https://github.com/AdrianGeorgeM/task-management-app.git
+git clone https://github.com/AdrianGeorgeM/Taskify-React.git
 
 # Navigate to the project directory
 cd task-management-app
